@@ -1,3 +1,5 @@
+![](https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/images-readme/capa-website.png)
+
 # ☁️ TCC Escola da Nuvem - Grupo 4
 
 Projeto final do curso de Fundamentos AWS pela Escola da Nuvem.
