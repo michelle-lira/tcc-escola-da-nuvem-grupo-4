@@ -86,8 +86,8 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
             <br><sub><b>Matheus Figueirêdo</b></sub><br>
         <p align="center">
             </a>    
-            <a href="https://github.com/">
-                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/">
+            <a href="https://github.com/MatheussFg">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheussFg">
             </a>
        </p>
 </td>
@@ -97,8 +97,8 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
             <br><sub><b>Pedro Freitas</b></sub><br>
         <p align="center">
             </a>    
-            <a href="https://github.com/">
-                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/">
+            <a href="https://github.com/pedrohsfreitas">
+                   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrohsfreitas">
             </a>
        </p>
 </td>
