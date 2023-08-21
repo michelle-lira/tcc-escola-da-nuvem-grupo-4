@@ -1,15 +1,27 @@
-# TCC Escola da Nuvem - Grupo 4
+# ☁️ TCC Escola da Nuvem - Grupo 4
 
 Projeto final do curso de Fundamentos AWS pela Escola da Nuvem.
 
-## Objetivo:
+## 🎯 Objetivo
+
+Desenvolvimento de um website (html, css, imagens) contendo os currículos do grupo e a implantação de um ou mais serviços na nuvem AWS, com rede de entrega de conteúdo, com baixa latência, com segurança, e armazenamento durável, para atender a demanda de 11 milhões de requisições por mês (requisições do tipo get e select).
+
+## ⚙️ Ferramentas AWS Utilizadas
+
+* AWS Pricing Calculator
+* Cost Explorer
+* AWS Route 53
+* Amazon S3
+* Amazon CloudFront
+* Amazon Cloud Watch
+* AWS Cloud Trail
+* AWS Trusted Advisor
+
+## 💻 Website para Divulgação de Currículos 
 
 
-## Ferramentas Utilizadas
+## 🔗 Links Úteis
 
 
-## Website para Divulgação de Currículos 
-
-
-## Links Úteis
+## 🌐 Conecte-se com a gente 
 
