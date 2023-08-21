@@ -60,7 +60,7 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
 </td>
   <td align="center"><br>
         <a href="">
-            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/marilene.jfif" width="150px;" alt="Marilene Magno" style="max-width:100%;">
+            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/marilene.jfif" width="130px;" alt="Marilene Magno" style="max-width:100%;">
             <br><sub><b>Marilene Magno</b></sub><br>
         <p align="center">
             </a>    
@@ -71,7 +71,7 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
 </td>
   <td align="center"><br>
         <a href="">
-            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/2857e363-f7ed-4fc0-8122-ce7a27058a3c.jfif" width="150px;" alt="Michelle Lira" style="max-width:100%;">
+            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/2857e363-f7ed-4fc0-8122-ce7a27058a3c.jfif" width="140px;" alt="Michelle Lira" style="max-width:100%;">
             <br><sub><b>Michelle Lira</b></sub><br>
         <p align="center">
             </a>    
@@ -82,7 +82,7 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
 </td>
 <td align="center"><br>
         <a href="">
-            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/Capturadetela2022-12-15191812.jfif" width="150px;" alt="Matheus Figueirêdo" style="max-width:100%;">
+            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/Capturadetela2022-12-15191812.jfif" width="130px;" alt="Matheus Figueirêdo" style="max-width:100%;">
             <br><sub><b>Matheus Figueirêdo</b></sub><br>
         <p align="center">
             </a>    
@@ -93,7 +93,7 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
 </td>
 <td align="center"><br>
         <a href="">
-            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/pedro1.jfif" width="150px;" alt="Pedro Freitas" style="max-width:100%;">
+            <img src="https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/projeto-website-grupo-4/images/pedro1.jfif" width="165px;" alt="Pedro Freitas" style="max-width:100%;">
             <br><sub><b>Pedro Freitas</b></sub><br>
         <p align="center">
             </a>    
