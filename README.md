@@ -16,9 +16,11 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 * AWS Route 53
 * Amazon S3
 * Amazon CloudFront
-* Amazon Cloud Watch
-* AWS Cloud Trail
-* AWS Trusted Advisor
+<br>
+
+## 🗺️ Arquitetura AWS
+
+![](https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/images-readme/arquitetura-projeto.png)
 <br>
 
 ## 💻 Website para Divulgação de Currículos 
