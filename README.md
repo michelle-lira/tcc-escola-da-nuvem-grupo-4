@@ -42,6 +42,7 @@ Por isso adicionamos uma visualização abaixo. 🕐 _Aguarde alguns instantes o
 - [AWS Cost Explorer](https://aws.amazon.com/pt/aws-cost-management/aws-cost-explorer/)
 - [Route 53](https://aws.amazon.com/pt/route53/)
 - [Amazon S3](https://aws.amazon.com/pt/s3/)
+- [AWS Certificate Manager](https://docs.aws.amazon.com/pt_br/acm/latest/userguide/acm-overview.html)
 - [CloudFront](https://docs.aws.amazon.com/cloudfront/index.html)
 <br>
 
