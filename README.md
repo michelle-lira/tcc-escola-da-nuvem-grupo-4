@@ -20,7 +20,7 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 
 ## 🗺️ Arquitetura AWS
 
-![](https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/images-readme/arquitetura-projeto.png)
+![](https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/images-readme/arquitetura-projeto-grupo4.png)
 <br>
 
 ## 💻 Website para Divulgação de Currículos 
