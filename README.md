@@ -42,8 +42,6 @@ Criamos um site com as informações dos nossos perfis e currículos. Deixamos u
 - [Route 53](https://aws.amazon.com/pt/route53/)
 - [Amazon S3](https://aws.amazon.com/pt/s3/)
 - [CloudFront](https://docs.aws.amazon.com/cloudfront/index.html)
-- [AWS Cloud Trail](https://www.amazonaws.cn/en/cloudtrail/)
-- [AWS Trusted Advisor](https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/)
 <br>
 
 ## 🌐 Conecte-se conosco 
