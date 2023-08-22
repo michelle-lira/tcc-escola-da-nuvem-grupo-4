@@ -27,7 +27,7 @@ Desenvolvimento de um website (html, css, imagens) contendo os currículos do gr
 
 Criamos um site com as informações dos nossos perfis e currículos. Deixamos uma amostra da exibição abaixo.
 #### A página original será removida da AWS para evitar custos adicionais.      
-Por isso adicionamos uma visualização abaixo. 🕐 _Aguarde alguns instantes para o carregamento do vídeo a seguir_:
+Por isso adicionamos uma visualização abaixo. 🕐 _Aguarde alguns instantes o carregamento do vídeo a seguir_:
 <br>
 
 ![](https://github.com/michelle-lira/tcc-escola-da-nuvem-grupo-4/blob/main/images-readme/website-curriculos-edn-grupo-4.gif)
